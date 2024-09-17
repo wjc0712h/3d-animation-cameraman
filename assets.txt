@@ -1,7 +1,11 @@
 camera man : https://sketchfab.com/3d-models/cameraman-10-6e84d3530b644e889fecca92376dceb2
 
+car: https://sketchfab.com/3d-models/u469-b5a9f983a5a143f2a6994e083ef2b867
+
+death vally: https://sketchfab.com/3d-models/death-valley-terrain-9f57bca156e14cff9e4e316a9ccc3e0d
 snowy mountain: https://sketchfab.com/3d-models/snowy-mountain-terrain-9fa3c56fd32746bcb0e06cd2c4229ca0
 Post-apocalyptic Scene: https://sketchfab.com/3d-models/post-apocalyptic-scene-d2388e78f75a4003b0539031a8deee97
 Street: https://sketchfab.com/3d-models/shoot-background-graffiti-street-d653464b9ca948e2a7b95a8ea047fb91
+Warehouse: https://sketchfab.com/3d-models/abandoned-warehouse-interior-scene-1d5285f2e0fd4211a27c8042496d5959
 
 animations from mixamo.com

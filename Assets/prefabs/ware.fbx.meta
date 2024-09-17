@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 87ea7b5efc42159459d69211182d6c33
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DM_Watch_Your_Step_graffiti_diffuse
+    second: {fileID: 2800000, guid: 0cb1415bd962a024cb32594ff6598fd3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_CardboardPlain0019_2_alphamasked_S_diffuse
+    second: {fileID: 2800000, guid: fe06e0f888d8b024da6d545f2c8ab66c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_CardboardPlain0022_2_alphamasked_S_diffuse
+    second: {fileID: 2800000, guid: cccf691e3246a4542a539a02828c10dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_CardboardPlain0026_2_alphamasked_S_diffuse
+    second: {fileID: 2800000, guid: 2a0e496b4b98faa42b1986cfd73e0a73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_DoorsRollup0044_M_diffuse
+    second: {fileID: 2800000, guid: b474dea5f8b507348aee83a6b2f5e837, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_DoorsWoodBarn0017_M_diffuse
+    second: {fileID: 2800000, guid: 4beaa2faa6e94fe46ae849725fd1fbf2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: briques-ss-fenetre_diffuse
+    second: {fileID: 2800000, guid: 27378d721102ca44399f9d03aaeb86ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: briques-sur-fenetre_diffuse
+    second: {fileID: 2800000, guid: 126cd3107ad445449b16ced724baf9b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: colonne-beton.001_diffuse
+    second: {fileID: 2800000, guid: e71b31bc8b4d13e4fb242094666c887b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: colonne-beton_diffuse
+    second: {fileID: 2800000, guid: ba8f84612b9c5d040bfab7fb1a040514, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fenetre.002_diffuse
+    second: {fileID: 2800000, guid: 403b0a0b5891c8e4e98c82969a5ef86d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fenetre.002_specularGlossiness.png.001
+    second: {fileID: 2800000, guid: ac4a1ab820bed424fa3119c58bf5e76d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fenetre.004_diffuse
+    second: {fileID: 2800000, guid: 3fb2493a4f47c80449a09aec714b595f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fenetre.004_specularGlossiness.png.001
+    second: {fileID: 2800000, guid: 66cd167c64a3dc145981f38f72ad7e19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fenetre.005_diffuse
+    second: {fileID: 2800000, guid: 572beeef30751674aa573b87a90dc0ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fenetre.005_specularGlossiness.png.001
+    second: {fileID: 2800000, guid: 4fb6d44be6ec7c846855ac9efc017bf0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fenetre.006_diffuse
+    second: {fileID: 2800000, guid: 9360f5378462d4b46bbd3ef48c9feccd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fenetre.006_specularGlossiness.png.001
+    second: {fileID: 2800000, guid: 837eaacb63f0a484e91b88eada8c5209, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gravas_specularGlossiness.png.001
+    second: {fileID: 2800000, guid: 6fd2d1cdc2c55dc4d8d88b7c95276648, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: material_diffuse
+    second: {fileID: 2800000, guid: 871572d39624af545a81cf4d14f959b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mur-arriere_diffuse
+    second: {fileID: 2800000, guid: d00f32c78c08e3b4e97118b308b67128, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mur-droite_diffuse
+    second: {fileID: 2800000, guid: 0f97198433a8c9c4b82d493189b171dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mur-fond_diffuse
+    second: {fileID: 2800000, guid: b6d3fe081b8996444b6071f68f842a2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mur-gauche_diffuse
+    second: {fileID: 2800000, guid: 4dc94ca7eaf676d4f86c534ba25ed760, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: palette.001_diffuse
+    second: {fileID: 2800000, guid: 981824b9c3a67cb4eab88e6e400d0315, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: palette_diffuse
+    second: {fileID: 2800000, guid: 43b3007fd69c707409ca50b473b7348a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pandagun_1280_diffuse
+    second: {fileID: 2800000, guid: 9f479a56e0c608e438ef60f578abde82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: poutre-toit.001_diffuse
+    second: {fileID: 2800000, guid: 5c2e414e54677fb44844fc3f05fc2fdf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: toiture-tole.001_diffuse
+    second: {fileID: 2800000, guid: a89a745372af2f440980159711857d56, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: toiture-tole_diffuse
+    second: {fileID: 2800000, guid: c1e89619f818f644b9ad354d7eb81d15, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
